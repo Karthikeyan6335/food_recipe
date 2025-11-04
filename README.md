@@ -1,16 +1,30 @@
-# flutter_application_5
+# Food Recipe App (Flutter)
 
-A new Flutter project.
+## Overview
+The Food Recipe App is a cross-platform mobile and web application developed using Flutter.  
+It allows users to browse, search, and view a variety of food recipes with detailed cooking instructions, ingredients, and images.  
+The app is designed with an intuitive UI and ensures a seamless experience across devices.
 
-## Getting Started
+Live Demo: [https://food-recipe-app-89820.web.app](https://food-recipe-app-89820.web.app)
 
-This project is a starting point for a Flutter application.
+## Objective
+To develop a Flutter-based recipe application that provides an interactive and organized platform for users to explore and learn new recipes easily.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
+- Displays a wide range of recipes with names, ingredients, and cooking methods.  
+- Search functionality to find recipes quickly.  
+- Responsive UI for mobile and web platforms.  
+- Favorites section for saving preferred recipes.  
+- Smooth navigation between recipe categories.  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technologies Used
+- **Framework:** Flutter  
+- **Language:** Dart  
+- **API:** Custom JSON / Recipe API (depending on version)  
+- **Hosting:** Firebase Web Hosting  
+- **Tools:** Android Studio, Visual Studio Code  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Karthikeyan6335/Food-Recipe-App.git
